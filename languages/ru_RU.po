@@ -1,0 +1,291 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-demo\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-10-17 11:02+0300\n"
+"PO-Revision-Date: 2016-10-17 11:02+0300\n"
+"Last-Translator: ArtZona <igor.artzona@gmail.com>\n"
+"Language-Team: artzona.org <igor.artzona@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10 functions.php:122
+msgid "Page"
+msgstr "Страница "
+
+#: 404.php:10
+msgid "not found"
+msgstr "не найдена"
+
+#: comments.php:11
+msgid "Comments :"
+msgstr "Комментарии :"
+
+#: comments.php:24
+#, php-format
+msgid "%s"
+msgstr "От %s"
+
+#: comments.php:28
+msgid "Your comment will be published after approval by the administrator"
+msgstr "Ваш комментарий будет опубликован после одобрения администратором"
+
+#: comments.php:32
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: comments.php:33
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: comments.php:88
+msgid "Name"
+msgstr "Название"
+
+#: comments.php:90
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:92
+msgid "URL"
+msgstr "URL"
+
+#: comments.php:98
+msgid "Your message..."
+msgstr "Текст вашего сообщения..."
+
+#: comments.php:99
+msgid "Send"
+msgstr "Отправить"
+
+#: functions.php:66 functions.php:137
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: functions.php:80
+msgid "Main menu"
+msgstr "Основное меню"
+
+#: functions.php:85
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: functions.php:94
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+#: functions.php:122
+msgid "from"
+msgstr "из"
+
+#: functions.php:131
+msgid "Home"
+msgstr "Главная"
+
+#: functions.php:132
+#, php-format
+msgid "Category \"%s\""
+msgstr " Рубрика \"%s\""
+
+#: functions.php:133
+#, php-format
+msgid "Search in \"%s\""
+msgstr "Результаты поиска для: %s"
+
+#: functions.php:134
+#, php-format
+msgid "Tag in \"%s\""
+msgstr "Записи с тегом \"%s\""
+
+#: functions.php:135
+#, php-format
+msgid "By author %s"
+msgstr "Статьи автора %s"
+
+#: functions.php:136
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: functions.php:138
+#, php-format
+msgid "Page comments %s"
+msgstr "Комментариев: %s"
+
+#: functions.php:335
+msgid "You must supply a numeric value."
+msgstr "Используйте только числовые значения"
+
+#: inc/custom_class.php:48
+msgid "Sidebar width"
+msgstr "Ширина сайдбара"
+
+#: inc/panel/colors.php:11
+msgid "Menu Color"
+msgstr "Цвет меню (background)"
+
+#: inc/panel/colors.php:24
+msgid "Menu Link Color"
+msgstr "Цвет ссылок в меню"
+
+#: inc/panel/colors.php:39
+msgid "Apply intellectual color theme"
+msgstr "Автоматически генерировать цветовую схему"
+
+#: inc/panel/colors.php:53
+msgid "Primary Color"
+msgstr "Базовый цвет"
+
+#: inc/panel/front-page.php:6
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: inc/panel/front-page.php:7
+msgid "Front Page tuning"
+msgstr "Настройка главной страницы"
+
+#: inc/panel/front-page.php:19 inc/panel/single-post.php:33
+msgid "Display post title"
+msgstr "Показать заголовок поста (записи)"
+
+#: inc/panel/front-page.php:33 inc/panel/single-post.php:47
+msgid "Display post meta"
+msgstr "Показать мета-теги поста (записи)"
+
+#: inc/panel/front-page.php:47 inc/panel/single-page.php:61
+#: inc/panel/single-post.php:61
+msgid "View date"
+msgstr "Показывать дату"
+
+#: inc/panel/front-page.php:61 inc/panel/single-page.php:75
+#: inc/panel/single-post.php:75
+msgid "View time"
+msgstr "Показывать время"
+
+#: inc/panel/front-page.php:75 inc/panel/single-page.php:89
+#: inc/panel/single-post.php:89
+msgid "View post author"
+msgstr "Показывать имя автора поста (записи)"
+
+#: inc/panel/front-page.php:89 inc/panel/single-post.php:103
+msgid "View post category"
+msgstr "Показывать категории поста (записи)"
+
+#: inc/panel/layout.php:6
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/panel/layout.php:7
+msgid "Layout settings"
+msgstr "Настройка макета"
+
+#: inc/panel/layout.php:19
+msgid "Display left sidebar"
+msgstr "Показывать левый сайдбар"
+
+#: inc/panel/layout.php:33
+msgid "Display right sidebar"
+msgstr "Показывать правый сайдбар"
+
+#: inc/panel/layout.php:47
+msgid "Site max-width (px)"
+msgstr "Максимальная ширина сайта (px)"
+
+#: inc/panel/layout.php:61
+msgid "Sidebar width (%)"
+msgstr "Ширина сайдбара (%)"
+
+#: inc/panel/single-page.php:6
+msgid "Single Page"
+msgstr "Отдельная страница"
+
+#: inc/panel/single-page.php:7
+msgid "Single page tuning"
+msgstr "Тонкая настройка отдельной страницы"
+
+#: inc/panel/single-page.php:19 inc/panel/single-post.php:19
+msgid "Display breadcrumbs"
+msgstr "Показывать \"хлебные крошки\""
+
+#: inc/panel/single-page.php:33
+msgid "Display page title"
+msgstr "Показать заголовок страницы"
+
+#: inc/panel/single-page.php:47
+msgid "Display page meta"
+msgstr "Показать мета-теги страницы"
+
+#: inc/panel/single-post.php:6
+msgid "Single post"
+msgstr "Отдельная запись (пост)"
+
+#: inc/panel/single-post.php:7
+msgid "Single post tuning"
+msgstr "Тонкая настройка полной записи (поста)"
+
+#: inc/panel/single-post.php:118
+msgid "Display PREV\\NEXT link"
+msgstr "Показывать ссылки на предыдущий\\следующий пост"
+
+#: inc/panel/title-tag.php:10
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/panel/title-tag.php:23
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/panel/title-tag.php:36
+msgid "E-mail"
+msgstr "E-mail"
+
+#: page.php:19 single.php:19
+msgid "Edit This"
+msgstr "Редактировать"
+
+#: page.php:51 single.php:56
+msgid "Tags: "
+msgstr "Метки: "
+
+# @ _s
+#: page.php:58 single.php:63
+msgid "Pages:"
+msgstr "Страницы: "
+
+#: page.php:64 single.php:69
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: page.php:65 single.php:70
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+# @ _s
+#: template/archive.php:8
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: template/archive.php:26 template/front-page-blog.php:50
+#: template/front-page-blog.php:53
+msgid "Read more&rArr;"
+msgstr "Читать далее &rArr;"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Миниатюра"
+
+#~ msgid "None"
+#~ msgstr "Отсутствует"
+
+#~ msgid "Sorry, not found"
+#~ msgstr "Извините, ничего не найдено"
